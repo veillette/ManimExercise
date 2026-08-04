@@ -1,0 +1,4 @@
+# Manim render output -- regenerate with `manim -ql script.py <Scene...>`
+media/
+__pycache__/
+*.pyc

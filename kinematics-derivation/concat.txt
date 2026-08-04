@@ -1,0 +1,8 @@
+file 'media/videos/script/1080p60/Scene1_Hook.mp4'
+file 'media/videos/script/1080p60/Scene2_Quantities.mp4'
+file 'media/videos/script/1080p60/Scene3_Equation1.mp4'
+file 'media/videos/script/1080p60/Scene4_Equation2.mp4'
+file 'media/videos/script/1080p60/Scene5_Equation3.mp4'
+file 'media/videos/script/1080p60/Scene6_Equation4.mp4'
+file 'media/videos/script/1080p60/Scene7_Example.mp4'
+file 'media/videos/script/1080p60/Scene8_Summary.mp4'
