@@ -1,0 +1,215 @@
+1
+00:00:01,000 --> 00:00:04,400
+Equal time steps, but growing gaps. That is constant acceleration.
+
+2
+00:00:04,766 --> 00:00:07,166
+The four kinematics equations for constant acceleration.
+
+3
+00:00:08,666 --> 00:00:11,666
+Most classes hand you these four and say: memorize them.
+
+4
+00:00:12,066 --> 00:00:14,266
+But where do they come from?
+
+5
+00:00:14,266 --> 00:00:16,866
+We will derive all four using nothing but algebra.
+
+6
+00:00:18,666 --> 00:00:21,666
+An object starts at velocity v-naught and ends at velocity v.
+
+7
+00:00:20,366 --> 00:00:22,966
+In between, a steady acceleration a, over an elapsed time t.
+
+8
+00:00:23,466 --> 00:00:26,266
+Five quantities in total, and every equation links them.
+
+9
+00:00:26,066 --> 00:00:29,466
+Constant acceleration means the velocity changes by the same amount every second.
+
+10
+00:00:32,666 --> 00:00:35,666
+Because the acceleration never changes, the velocity graph is a straight line.
+
+11
+00:00:35,866 --> 00:00:38,866
+Acceleration is the change in velocity divided by the change in time.
+
+12
+00:00:37,666 --> 00:00:40,466
+The velocity changes from v-naught to v, over a time t.
+
+13
+00:00:39,566 --> 00:00:41,566
+Multiply both sides by t.
+
+14
+00:00:41,266 --> 00:00:44,266
+Add v-naught to both sides, and there is equation one.
+
+15
+00:00:46,366 --> 00:00:49,766
+Look at its shape: y equals m x plus b. Intercept v-naught, slope a.
+
+16
+00:00:53,066 --> 00:00:56,266
+If the velocity never changed, displacement is simply velocity times time.
+
+17
+00:00:56,666 --> 00:00:59,466
+But the velocity does change. So what do we use instead?
+
+18
+00:00:58,566 --> 00:01:01,966
+Displacement equals average velocity times time. That is not an approximation.
+
+19
+00:01:01,466 --> 00:01:04,066
+So what is the average of a straight line?
+
+20
+00:01:04,066 --> 00:01:06,666
+Try the midpoint of the two end velocities.
+
+21
+00:01:05,266 --> 00:01:07,866
+In the first half the object is slower than that midpoint.
+
+22
+00:01:06,266 --> 00:01:09,066
+In the second half it is faster, by exactly the same shape.
+
+23
+00:01:08,066 --> 00:01:11,266
+Rotate the surplus half a turn and it fills the deficit perfectly.
+
+24
+00:01:11,466 --> 00:01:15,066
+Every moment that is too slow is matched by one exactly as much too fast.
+
+25
+00:01:16,366 --> 00:01:19,166
+So the average velocity is the midpoint of the two ends.
+
+26
+00:01:18,266 --> 00:01:21,066
+Put that back in, and there is equation two.
+
+27
+00:01:25,266 --> 00:01:28,866
+Equation two still mentions the final velocity. Replace it using equation one.
+
+28
+00:01:27,666 --> 00:01:30,266
+Substitute v-naught plus a t in place of v.
+
+29
+00:01:29,366 --> 00:01:31,966
+The two v-naught terms collect into two v-naught.
+
+30
+00:01:31,166 --> 00:01:33,766
+Halve everything inside the bracket.
+
+31
+00:01:32,966 --> 00:01:35,566
+Distribute the t, and there is equation three.
+
+32
+00:01:39,766 --> 00:01:42,766
+The rectangle is how far you would go if you never sped up.
+
+33
+00:01:41,766 --> 00:01:44,766
+The triangle is the extra distance the acceleration bought you.
+
+34
+00:01:43,766 --> 00:01:46,566
+Two terms in the equation, two pieces in the picture.
+
+35
+00:01:48,366 --> 00:01:51,366
+Sometimes time is the one thing you do not know.
+
+36
+00:01:51,766 --> 00:01:54,566
+Take equation one and solve it for t.
+
+37
+00:01:56,566 --> 00:01:58,966
+Now put that into equation two.
+
+38
+00:02:00,266 --> 00:02:03,466
+Look at that numerator: v plus v-naught, times v minus v-naught.
+
+39
+00:02:01,466 --> 00:02:03,866
+That is a difference of squares.
+
+40
+00:02:05,466 --> 00:02:08,466
+So the numerator collapses to v squared minus v-naught squared.
+
+41
+00:02:07,466 --> 00:02:09,666
+Multiply both sides by two a.
+
+42
+00:02:09,166 --> 00:02:11,766
+Rearrange, and there is equation four.
+
+43
+00:02:12,066 --> 00:02:14,666
+Notice there is no t in it anywhere.
+
+44
+00:02:16,666 --> 00:02:20,666
+A car starts from rest and accelerates at three metres per second squared for five seconds.
+
+45
+00:02:19,466 --> 00:02:22,466
+We know v-naught, a, and t. We want the displacement.
+
+46
+00:02:22,066 --> 00:02:25,466
+We do not know the final velocity, so use the equation that leaves it out.
+
+47
+00:02:24,366 --> 00:02:27,166
+That is equation three. Plug in the numbers.
+
+48
+00:02:26,566 --> 00:02:28,966
+Thirty-seven and a half metres.
+
+49
+00:02:30,966 --> 00:02:34,166
+Equation one gives the final velocity: fifteen metres per second.
+
+50
+00:02:33,966 --> 00:02:37,166
+Feed that into equation two, and it gives the same displacement.
+
+51
+00:02:36,366 --> 00:02:39,566
+They agree, because all four came from the same straight line.
+
+52
+00:02:41,766 --> 00:02:45,766
+Four equations, and each one leaves out exactly one of the five quantities.
+
+53
+00:02:46,366 --> 00:02:49,966
+Find the quantity you neither know nor want, and the equation picks itself.
+
+54
+00:02:50,866 --> 00:02:55,866
+Two ideas did all the work: acceleration is the slope of the line, and displacement is its average height times the width.
